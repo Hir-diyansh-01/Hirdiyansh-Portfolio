@@ -1,10 +1,10 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="https://github.com/StrongBlue0703/Olympus-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
 </p>
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/StrongBlue0703/github-portfolio)
 
 ---
 
@@ -145,26 +145,26 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/StrongBlue0703/Olympus-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Strong Blue",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
+  description: "My name is Strong Blue....",
+  email: "olympus0703@gmail.com",
   phone: "+8801608797655",
   address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  github: "https://github.com/StrongBlue0703",
+  facebook: "https://www.facebook.com",
+  linkedIn: "https://www.linkedin.com",
+  twitter: "https://twitter.com/StrongBlue0703",
+  stackOverflow: "https://stackoverflow.com",
+  leetcode: "https://leetcode.com",
+  devUsername: "StrongBlue0703",
   resume: "...",
 };
 ```
