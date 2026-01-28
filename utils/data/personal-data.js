@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "Hirdiyansh Mishra",
+  name: "Hirdiyansh.dev",
   profile: '/me.png',
   designation: "Frontend Developer, React & Modern UI Enthusiast",
   description: "My name is Hirdiyansh Mishra. I enjoy building clean, responsive, and interactive web interfaces that feel smooth and easy to use. I’m constantly learning and improving my skills in JavaScript and React by creating real projects and experimenting with animations and modern UI techniques. I love solving problems, exploring new technologies, and turning ideas into practical web solutions that people actually enjoy using.",
