@@ -6,7 +6,7 @@ export const projectsData = [
         tools: ['Express.js', 'MongoDB', 'OpenAI API', 'React', 'Node.js', 'Cloudinary', 'JWT', 'CSS', 'REST APIs', 'Bootstrap'],
         role: 'Full Stack Developer',
         code: 'https://github.com/Hir-diyansh-01/MAJORPROJECT---StaySphere-Travel-Platform',
-        demo: 'https://majorproject-stay-sphere-travel-platform.vercel.app',
+        demo: 'https://majorproject-staysphere-travel-platform.onrender.com/',
     },
     {
         id: 2,
