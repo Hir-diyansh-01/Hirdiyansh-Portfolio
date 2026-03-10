@@ -24,7 +24,7 @@ export const projectsData = [
         tools: ['React', 'Bootstrap', 'CSS', 'Express.js', 'MongoDB', 'Chart.js', 'JWT'],
         code: 'https://github.com/Hir-diyansh-01/Finance-Tracker',
         role: 'MERN Stack Developer',
-        demo: 'finance-tracker-five-swart.vercel.app',
+        demo: 'https://finance-tracker-mocha-one.vercel.app/',
     },
     // {
     //     id: 4,
