@@ -26,6 +26,16 @@ export const projectsData = [
         role: 'MERN Stack Developer',
         demo: 'https://finance-tracker-mocha-one.vercel.app/',
     },
+
+    {
+    id: 4,
+    name: 'Job Hunt Tracker',
+    description: 'A modern job application tracking platform built with React and Vite that enables users to organize and monitor their job search process. The application includes features such as application management, status tracking, search and filtering, real-time statistics dashboard, and Local Storage integration for data persistence.',
+    tools: ['ReactJS', 'Vite', 'JavaScript', 'CSS', 'Local Storage'],
+    code: 'https://github.com/Hir-diyansh-01/Job-Hunt-Tracker',
+    demo: 'https://job-hunt-tracker-eta.vercel.app/',
+    role: 'Frontend Developer',
+   }
     // {
     //     id: 4,
     //     name: 'Newsroom Management',
